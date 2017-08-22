@@ -1,0 +1,8 @@
+huga
+#.gitignore
+
+config/important.conf
+config/config.txt
+
+config/etc/var.js
+config/documents/practice.js
